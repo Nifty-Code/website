@@ -1,3 +1,3 @@
 # Nifty Code siteweb
 
-Jekyll theme based on https://github.com/raviriley/agency-jekyll-theme 
+Jekyll theme based on https://github.com/raviriley/agency-jekyll-theme
